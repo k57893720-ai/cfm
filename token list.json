@@ -1,0 +1,19 @@
+{
+  "name": "Commission For Miners",
+  "timestamp": "2025-12-17T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xdA0F8d1278954970180a8972E8EAC4cEb2cf8bd0",
+      "name": "Commission For Miners",
+      "symbol": "CFM",
+      "decimals": 18,
+      "logoURI": "https://github.com/k57893720-ai/cfm/blob/main/logo.png?raw=true"
+    }
+  ]
+}
